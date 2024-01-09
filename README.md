@@ -1,16 +1,14 @@
-### Hi there 👋
+(https://media.licdn.com/dms/image/D4D16AQHP26sUWFvVPg/profile-displaybackgroundimage-shrink_200_800/0/1691406252281?e=2147483647&v=beta&t=q7Ms9sEPF01dVZmQcsdsXQcFl2oaaq9HBUXcl4dHpLc)
+### Hi there 👋, I'am JOBAER HOQUE
+#### Junior Web Developer 
+![Junior Web Developer ]
 
-<!--
-**JobaerHoque/JobaerHoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML  / BOOTSTRAP / LARAVEL / MYSQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
