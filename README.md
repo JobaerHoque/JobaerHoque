@@ -3,7 +3,7 @@
 ### Hi there 👋, I'am JOBAER HOQUE
 #### Web Developer  
 
-- 🔭 I’m currently working for my personal development . 
+Currently working for my personal development . 
 
 Skills: Laravel / Php / MySQL / Java Script / Bootstrap
 
