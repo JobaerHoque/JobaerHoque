@@ -3,12 +3,9 @@
 ### Hi there 👋, I'am JOBAER HOQUE
 #### Web Developer  
 
-Currently I'am Java Script Student
+- 🔭 I’m currently working for my personal development . 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+Skills: Laravel / Php / MySQL / Java Script / Bootstrap
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JobaerHoque)  
 
